@@ -12,7 +12,6 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-
     TextView textSayac;
 
     // Yeni BroadcastRecevier nesnesi üretiyoruz. İstersek kendi custom Class ımızı oluşturup,
